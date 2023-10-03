@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biostatistics, data analysis and ML
 - 🌱 I’m currently learning Python, SAS, R, ML algorithms
 - 💞️ I’m looking to collaborate on statistical projects!
-- 📫 How to reach me: sz3029@cumc.columbia.edu
+- 📫 How to reach me: shihuizhu9929@gmail.com
 
 <!---
 sz3029/sz3029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
